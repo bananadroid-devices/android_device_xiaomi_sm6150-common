@@ -104,4 +104,7 @@
 
     <!-- Refresh Rate tile -->
     <string name="refresh_rate_tile_title">Refresh Rate</string>
+
+    <!-- Add Ons -->
+    <string name="dolby">Dolby Atmos™</string>
 </resources>
